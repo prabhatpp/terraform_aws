@@ -9,7 +9,7 @@ script is available in repository file.
 https://github.com/prabhatpp/terraform_aws/blob/master-to-main/daily_cost/daily_cost.py
 
 
-
+https://github.com/prabhatpp/terraform_aws/blob/5bd55dc25c3733bef604a5340fc1c3e65b56d45b/daily_cost/daily_cost.py#L50
 
 
 
