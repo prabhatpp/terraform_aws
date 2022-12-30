@@ -3,8 +3,8 @@ import datetime
 client = boto3.client(
     'ses',
     region_name='us-east-1',
-    aws_access_key_id='AKIA2CUJN4MFHNP4UE6H',
-    aws_secret_access_key='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'
+    aws_access_key_id='AKIA2C**************',
+    aws_secret_access_key='bNujtUai*****************'
 )
 EMAIL_FROM = "dwivedi.prabhat@tftus.com"
 EMAIL_TO = "dwivedi.prabhat@tftus.com"
@@ -21,8 +21,8 @@ def build_csv_report(response):
 def amount():
     today = datetime.date.today()
     yesterday = datetime.date.today() - datetime.timedelta(days=1)
-    client = boto3.client('ce', region_name='us-east-1',aws_access_key_id='AKIA2CUJN4MFHNP4UE6H',
-    aws_secret_access_key='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')
+    client = boto3.client('ce', region_name='us-east-1',aws_access_key_id='AKI**********',
+    aws_secret_access_key='bN**********************')
     response = client.get_cost_and_usage(
         TimePeriod={
             'Start':datetime.date.strftime(yesterday, '%Y-%m-%d'),
