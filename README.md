@@ -6,6 +6,7 @@ and update the for sender **EMAIL_FROM** and for recipent  **EMAIL_TO **
 and run the script at any time when you want the report.
 
 script is available in repository file.
+https://github.com/prabhatpp/terraform_aws/blob/master-to-main/daily_cost/daily_cost.py
 
 
 
