@@ -10,7 +10,7 @@ script is available in repository file.
 https://github.com/prabhatpp/terraform_aws/blob/5bd55dc25c3733bef604a5340fc1c3e65b56d45b/daily_cost/daily_cost.py
 
 
-
+https://github.com/prabhatpp/terraform_aws/blob/cf0e940ea7dafe514b076f3f738fa1685d5613a6/README.md
 
 
 import boto3
