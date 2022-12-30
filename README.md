@@ -1,6 +1,6 @@
-# aws_daily cost script
+# AWS_daily cost script
 
-if you  want to fetch the daily cost of report in any account id  this script will give the result.
+If you  want to fetch the daily cost of report in any account id  this script will give the result.
 firstly update your credential (access key id , secrete key)
 and update the EMAIL FRPM or EMAIL to 
 and run the script at any time when you want the report.
