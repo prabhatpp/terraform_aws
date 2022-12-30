@@ -59,3 +59,6 @@ response = client.send_email(
         }
     },
 )
+
+
+print(response)
